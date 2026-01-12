@@ -1,4 +1,4 @@
-💳 Paymate
+💳 PAYMATE
 
 Paymate is a cross-platform mobile payment app built with Flutter. It allows users to send/receive payments, track transactions, and manage accounts securely — all with a smooth, intuitive interface. Perfect for personal or small business use.
 

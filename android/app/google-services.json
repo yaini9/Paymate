@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640975384662",
+    "project_id": "upi-trans",
+    "storage_bucket": "upi-trans.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640975384662:android:720414efb5f5c47a0c8bf7",
+        "android_client_info": {
+          "package_name": "com.example.upi_payment_helper_with_shop_assistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1pke4a1N0I0Y4TCuYdNVmGDZLQ11E_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
